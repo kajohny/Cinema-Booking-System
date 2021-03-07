@@ -1,5 +1,5 @@
 # Cinema-Booking-System
-I have 12 classes including main class(many of them won't be describeв because they are not so important).
+I have 12 classes including main class(many of them won't be described because they are not so important).
 
 As an exteranl source I used DBMS(PostgreSQL).
 
