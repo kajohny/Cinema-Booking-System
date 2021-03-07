@@ -11,8 +11,8 @@ Classes:
 5. Person.java
 6. User.java
 7. Session.java
-8. CinemaCollection.java
-9. MovieCollection.java
-10. SessionCollection.java
-11. Ticket.java
+8. Ticket.java
+9. CinemaCollection.java
+10. MovieCollection.java
+11. SessionCollection.java
 12. Database.java
