@@ -1,7 +1,5 @@
 package com.company;
 
-import org.jetbrains.annotations.Nullable;
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
