@@ -16,3 +16,5 @@ Classes:
 10. MovieCollection.java
 11. SessionCollection.java
 12. Database.java
+
+With the help of this project, users can get the list of all cinemas in the city, buy ticket for the session they are looking for, and get detailed information about movies, sessions.
